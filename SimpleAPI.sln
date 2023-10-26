@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPI", "SimpleAPI\SimpleAPI.csproj", "{D13AF7DD-C894-4A37-8077-314F36A7174C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAPI.Tests", "SimpleAPI.Tests\SimpleAPI.Tests.csproj", "{30C33D81-5BEF-4546-97D0-73213A241C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13AF7DD-C894-4A37-8077-314F36A7174C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13AF7DD-C894-4A37-8077-314F36A7174C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13AF7DD-C894-4A37-8077-314F36A7174C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13AF7DD-C894-4A37-8077-314F36A7174C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C33D81-5BEF-4546-97D0-73213A241C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C33D81-5BEF-4546-97D0-73213A241C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C33D81-5BEF-4546-97D0-73213A241C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C33D81-5BEF-4546-97D0-73213A241C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938A3570-DD30-4C17-A2AE-48F8083B8042}
+	EndGlobalSection
+EndGlobal
